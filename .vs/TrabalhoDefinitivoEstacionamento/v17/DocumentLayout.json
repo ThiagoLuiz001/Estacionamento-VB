@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\trabalhodefinitivoestacionamento\\aconexao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|solutionrelative:trabalhodefinitivoestacionamento\\aconexao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|c:\\users\\thiago\\desktop\\trabalhodefinitivoestacionamento\\trabalhodefinitivoestacionamento\\saida.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|solutionrelative:trabalhodefinitivoestacionamento\\saida.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\trabalhodefinitivoestacionamento\\saida.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|solutionrelative:trabalhodefinitivoestacionamento\\saida.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\trabalhodefinitivoestacionamento\\mdimenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|solutionrelative:trabalhodefinitivoestacionamento\\mdimenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\trabalhodefinitivoestacionamento\\consultavaga.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|solutionrelative:trabalhodefinitivoestacionamento\\consultavaga.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\trabalhodefinitivoestacionamento\\consultacliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|solutionrelative:trabalhodefinitivoestacionamento\\consultacliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\trabalhodefinitivoestacionamento\\cadastro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|solutionrelative:trabalhodefinitivoestacionamento\\cadastro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\trabalhodefinitivoestacionamento\\alterardados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|solutionrelative:trabalhodefinitivoestacionamento\\alterardados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\trabalhodefinitivoestacionamento\\entrada.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|solutionrelative:trabalhodefinitivoestacionamento\\entrada.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\trabalhodefinitivoestacionamento\\entrada.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|solutionrelative:trabalhodefinitivoestacionamento\\entrada.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\trabalhodefinitivoestacionamento\\cadastro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|solutionrelative:trabalhodefinitivoestacionamento\\cadastro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\trabalhodefinitivoestacionamento\\consultacliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E94DBD3B-443E-4D6A-A0F1-502438FBD952}|TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento.vbproj|solutionrelative:trabalhodefinitivoestacionamento\\consultacliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ACONEXAO.vb",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\ACONEXAO.vb",
+              "RelativeDocumentMoniker": "TrabalhoDefinitivoEstacionamento\\ACONEXAO.vb",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\ACONEXAO.vb",
+              "RelativeToolTip": "TrabalhoDefinitivoEstacionamento\\ACONEXAO.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T23:51:10.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Saida.vb",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\Saida.vb",
+              "RelativeDocumentMoniker": "TrabalhoDefinitivoEstacionamento\\Saida.vb",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\Saida.vb",
+              "RelativeToolTip": "TrabalhoDefinitivoEstacionamento\\Saida.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T23:47:10.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Saida.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\Saida.vb",
+              "RelativeDocumentMoniker": "TrabalhoDefinitivoEstacionamento\\Saida.vb",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\Saida.vb [Design]",
+              "RelativeToolTip": "TrabalhoDefinitivoEstacionamento\\Saida.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T23:45:48.484Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultaVaga.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\ConsultaVaga.vb",
+              "RelativeDocumentMoniker": "TrabalhoDefinitivoEstacionamento\\ConsultaVaga.vb",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\ConsultaVaga.vb [Design]",
+              "RelativeToolTip": "TrabalhoDefinitivoEstacionamento\\ConsultaVaga.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T23:45:39.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlterarDados.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\AlterarDados.vb",
+              "RelativeDocumentMoniker": "TrabalhoDefinitivoEstacionamento\\AlterarDados.vb",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\AlterarDados.vb [Design]",
+              "RelativeToolTip": "TrabalhoDefinitivoEstacionamento\\AlterarDados.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T23:44:54.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultaCliente.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\ConsultaCliente.vb",
+              "RelativeDocumentMoniker": "TrabalhoDefinitivoEstacionamento\\ConsultaCliente.vb",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\ConsultaCliente.vb [Design]",
+              "RelativeToolTip": "TrabalhoDefinitivoEstacionamento\\ConsultaCliente.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T20:57:29.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MdiMenu.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\MdiMenu.vb",
+              "RelativeDocumentMoniker": "TrabalhoDefinitivoEstacionamento\\MdiMenu.vb",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\MdiMenu.vb [Design]",
+              "RelativeToolTip": "TrabalhoDefinitivoEstacionamento\\MdiMenu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T20:55:15.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entrada.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\Entrada.vb",
+              "RelativeDocumentMoniker": "TrabalhoDefinitivoEstacionamento\\Entrada.vb",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\Entrada.vb [Design]",
+              "RelativeToolTip": "TrabalhoDefinitivoEstacionamento\\Entrada.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T20:47:07.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cadastro.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\Cadastro.vb",
+              "RelativeDocumentMoniker": "TrabalhoDefinitivoEstacionamento\\Cadastro.vb",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\Cadastro.vb [Design]",
+              "RelativeToolTip": "TrabalhoDefinitivoEstacionamento\\Cadastro.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T22:03:52.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Entrada.vb",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\Entrada.vb",
+              "RelativeDocumentMoniker": "TrabalhoDefinitivoEstacionamento\\Entrada.vb",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\Entrada.vb",
+              "RelativeToolTip": "TrabalhoDefinitivoEstacionamento\\Entrada.vb",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAIwIAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T20:52:37.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cadastro.vb",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\Cadastro.vb",
+              "RelativeDocumentMoniker": "TrabalhoDefinitivoEstacionamento\\Cadastro.vb",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\Cadastro.vb",
+              "RelativeToolTip": "TrabalhoDefinitivoEstacionamento\\Cadastro.vb",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T22:36:26.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsultaCliente.vb",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\ConsultaCliente.vb",
+              "RelativeDocumentMoniker": "TrabalhoDefinitivoEstacionamento\\ConsultaCliente.vb",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\TrabalhoDefinitivoEstacionamento\\TrabalhoDefinitivoEstacionamento\\ConsultaCliente.vb",
+              "RelativeToolTip": "TrabalhoDefinitivoEstacionamento\\ConsultaCliente.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T21:26:39.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

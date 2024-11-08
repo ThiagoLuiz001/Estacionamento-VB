@@ -1,0 +1,31 @@
+create Database BdVaga
+use BdVaga
+
+create table TbVaga(
+id int primary key identity (1,1) Not null,
+Vaga Nvarchar(50) Not null,
+Ativo bit Not null,
+)
+go
+insert into TbVaga (Vaga, ativo) values (A1,1)
+insert into TbVaga (Vaga, ativo) values (P2,1)
+insert into TbVaga (Vaga, ativo) values (M3,1)
+insert into TbVaga (Vaga, ativo) values (Z4,1)
+insert into TbVaga (Vaga, ativo) values (I5,1)
+insert into TbVaga (Vaga, ativo) values (U6,1)
+insert into TbVaga (Vaga, ativo) values (H7,1)
+insert into TbVaga (Vaga, ativo) values (G8,1)
+insert into TbVaga (Vaga, ativo) values (R9,1)
+insert into TbVaga (Vaga, ativo) values (K10,1)
+insert into TbVaga (Vaga, ativo) values (N11,1)
+insert into TbVaga (Vaga, ativo) values (W12,1)
+insert into TbVaga (Vaga, ativo) values (T13,1)
+insert into TbVaga (Vaga, ativo) values (O14,1)
+insert into TbVaga (Vaga, ativo) values (B15,1)
+insert into TbVaga (Vaga, ativo) values (S16,1)
+insert into TbVaga (Vaga, ativo) values (Y17,1)
+insert into TbVaga (Vaga, ativo) values (F18,1)
+insert into TbVaga (Vaga, ativo) values (J19,1)
+insert into TbVaga (Vaga, ativo) values (Q20,1)
+
+select * from TbVaga
